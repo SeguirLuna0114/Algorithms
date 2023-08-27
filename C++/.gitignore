@@ -1,0 +1,7 @@
+# build files
+*.out
+*.dSYM/
+*.DS_Store
+codingTest/
+tmptest
+playground*
